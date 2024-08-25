@@ -1,0 +1,8 @@
+{
+  "name": "Airbnb-Clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/archanarajodiya/Airbnb-Clone.git",
+  "author": "Archana Rajodiya <archanarajodiya6388@gmail.com>",
+  "license": "MIT"
+}
